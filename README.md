@@ -1,7 +1,7 @@
 # Academic Practice
 
 ## Description
-This repository contains the work I completed during the **Academic Practice** subject in the second semester of university. The practice lasted for 15 days and included 10 tasks written in C language and 5 tasks completed in Excel. The goal of this practice was to develop practical programming and problem-solving skills by applying basic concepts in software engineering.
+This repository contains the work I completed during the **Academic Practice** subject in the second semester of university. The practice lasted for 15 days and included 10 tasks completed in C language and 5 tasks completed in Excel. The goal of this practice was to develop practical programming and problem-solving skills by applying basic concepts in software engineering.
 
 ---
 
@@ -55,9 +55,3 @@ This repository contains the work I completed during the **Academic Practice** s
 
 ### Practice 15: Upper Part of Hyperboloid
 **Task**: Construct the upper part of the hyperboloid given by the equation `x^2/9 + y^2/4 - z^2 = -1` within the range `-3 ≤ x ≤ 3`, `-2 ≤ y ≤ 2`.
-
----
-
-## Technologies
-- **C Language**: Practices 1 to 10 were written in C, focusing on basic algorithm implementation and problem-solving.
-- **Excel**: Practices 11 to 15 involve mathematical plotting and solving equations using Excel.
